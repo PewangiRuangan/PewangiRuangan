@@ -4,16 +4,16 @@
 </p>
 
 ### Hi there 👋 I'm [M. Hafizh Jauhari](https://www.linkedin.com/in/m-hafizh-jauhari-1b7552232/).
-> Software Engineer at [SoftNEP](https://softnep.com)
+> Software Engineer at [SahabatCuanID]([https://softnep.com](https://sahabatcuan.id/))
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+Hi! I'm Muhammad Hafizh Jauhari, a frontend developer based in Indonesia. I specialize in creating responsive, intuitive, and engaging web applications using modern technologies like React, Next.js, and Tailwind CSS.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+I'm passionate about building well-structured, maintainable code that delivers exceptional user experiences. My approach to development combines technical expertise with an understanding of design principles and user needs.
 </p>
 </div>
 
@@ -33,13 +33,13 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PewangiRuangan&repo=Portfolio&show_owner=true)](https://github.com/PewangiRuangan/Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PewangiRuangan&repo=Portal-Berita-DEMO-&show_owner=true)](https://github.com/PewangiRuangan/Portal-Berita-DEMO-)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://portfolioap1s.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-@mhafizhjauhari-blue?style=flat&logo=linkedin"></a>
+<a href="https://portfolioap1s.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-@mhafizhjauhari-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.linkedin.com/in/m-hafizh-jauhari-1b7552232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mhafizhjauhari-blue?style=flat&logo=linkedin"></a>
 </p>
 
